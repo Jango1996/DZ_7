@@ -1,0 +1,5 @@
+C:\GeekBrains\Дз7\Задачи\Задача47\obj\Debug\net6.0\Задача47.csproj.AssemblyReference.cache
+C:\GeekBrains\Дз7\Задачи\Задача47\obj\Debug\net6.0\Задача47.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Дз7\Задачи\Задача47\obj\Debug\net6.0\Задача47.AssemblyInfoInputs.cache
+C:\GeekBrains\Дз7\Задачи\Задача47\obj\Debug\net6.0\Задача47.AssemblyInfo.cs
+C:\GeekBrains\Дз7\Задачи\Задача47\obj\Debug\net6.0\Задача47.csproj.CoreCompileInputs.cache
